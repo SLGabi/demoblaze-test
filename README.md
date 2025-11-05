@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DemoBlaze E-Commerce: Full QA Automation & CI/CD Pipeline
 
 ![Playwright](https://img.shields.io/badge/Test%20Framework-Playwright-2E8555?style=for-the-badge&logo=playwright)
@@ -82,3 +83,7 @@ The pipeline executes the following stages:
 <!-- ```bash
 git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
 cd SEU-REPOSITORIO -->
+=======
+# Product Store - Testing Process
+Test automation and exploratory testing project for [Product Store](https://www.demoblaze.com), a demo e-commerce website designed for practicing QA and automation testing.
+>>>>>>> 3c2be653492bc843a52cd5cea97657bf72c7d5f3
